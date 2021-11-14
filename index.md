@@ -12,9 +12,9 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 
 
-### Fraud Detection
+### Loan Risk Analysis
 
-FThe project broadly falls under the category of Risk Analytics. We work for a consumer finance company which is specialised in lending various types of loans to urban customers. Upon receiving a loan application, the company has to approve/reject the request based on the applicant’s profile. The following are two types of risks associated with the bank’s decision,
+The project broadly falls under the category of Risk Analytics. We work for a consumer finance company which is specialised in lending various types of loans to urban customers. Upon receiving a loan application, the company has to approve/reject the request based on the applicant’s profile. The following are two types of risks associated with the bank’s decision,
 
 Loss of business: Not approving the loan even if the applicant is likely to repay.
 Financial Loss: Approving the loan when the applicant is likely to default.
